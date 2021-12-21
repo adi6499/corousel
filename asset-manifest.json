@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/corousel/static/css/main.9955392f.css",
+    "main.js": "/corousel/static/js/main.943b7648.js",
+    "static/js/787.aeefeb91.chunk.js": "/corousel/static/js/787.aeefeb91.chunk.js",
+    "index.html": "/corousel/index.html",
+    "main.9955392f.css.map": "/corousel/static/css/main.9955392f.css.map",
+    "main.943b7648.js.map": "/corousel/static/js/main.943b7648.js.map",
+    "787.aeefeb91.chunk.js.map": "/corousel/static/js/787.aeefeb91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9955392f.css",
+    "static/js/main.943b7648.js"
+  ]
+}
